@@ -1,4 +1,4 @@
-# Future Imperfect #
+# OSTraining-Future
 
 **Contributors:** topher1kenobe  
 **Tags:** translation-ready, custom-menu, post-formats, threaded-comments  
