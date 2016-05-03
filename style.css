@@ -2113,12 +2113,12 @@ Free for personal and commercial use under the CC BY 4.0 license (https://creati
 
 	.post img {
 		height: auto;
-		max-width: 686px;
+		max-width: 100%;
 	}
 
 	figure.alignnone {
 		height: auto;
-		max-width: 686px;
+		max-width: 100%;
 	}
 
 	img.alignleft, figure.alignleft {
